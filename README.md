@@ -34,6 +34,9 @@ The app is still in development and is not yet launched on the App Store. It is 
 |---------------------------|---------------------------|
 | ![Screenshot 2024-09-20 at 2 46 43 PM](https://github.com/user-attachments/assets/641802df-745d-4173-88e5-f59c17778810) | ![Screenshot 2024-09-20 at 2 46 56 PM](https://github.com/user-attachments/assets/50eace31-48cf-4424-a240-c3fd5d1c54c9)|
 
+
+<br> <br>
+
 | Screenshot 3              | Screenshot 4              |
 |---------------------------|---------------------------|
 | 
@@ -45,9 +48,7 @@ The app is still in development and is not yet launched on the App Store. It is 
 
 <br>
 
-
-
-Watch the live demo of the app [here](https://github.com/user-attachments/assets/a6dcdf1d-086d-47e9-a9f1-d0b475fde07c).
+https://github.com/user-attachments/assets/a6dcdf1d-086d-47e9-a9f1-d0b475fde07c
 
 
 
